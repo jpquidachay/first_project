@@ -1,0 +1,64 @@
+body {
+    background: #b4eeca;
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 10px 5px 4px 5px;
+    padding: 10px 5px 4px auto;
+}
+
+h1 {
+    color: blueviolet;
+    font: 42px Garamond, Helvetica, serif;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+thead {
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
+
+#menu {
+    text-align: left;
+    border-color: orange;
+    border-style: groove;
+    border-width: 7px;
+    width: 50%;
+    color: deepskyblue;
+    background-color: lemonchiffon;
+    font-family: fantasy;
+}
+
+#review {
+    border: plum outset 7px;
+    width: 50%;
+    background: floralwhite;
+}
+
+#contact {
+    border: beige ridge 7px;
+    width: 50%;
+    font-family: cursive;
+    background: orange;
+    color: lime;
+}
+
+th {
+    font-size: 24px;
+}

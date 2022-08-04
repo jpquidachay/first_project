@@ -1,0 +1,54 @@
+body {
+  background: #4682b4;
+  margin: 10px 5px 4px;
+  padding: 2% 5%;
+  font-family: Helvetica, Verdana, sans-serif;
+  border: seashell double 5px;
+  color: whitesmoke;
+}
+
+nav {
+  background: seashell;
+  border: navy solid 2px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 48px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration-line: overline underline;
+  color: coral;
+}
+
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+section {
+  border: seashell solid 2px;
+  margin: 10px auto;
+}
+
+.sections {
+  columns: 2;
+  display: inline-block;
+}
+
+#aboutme {
+  float: left;
+}
+
+#interests {
+  float:right
+}
